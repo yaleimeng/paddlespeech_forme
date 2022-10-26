@@ -1,0 +1,2 @@
+# paddlespeech_forme
+paddlespeech局部定制版，流式ASR与TTS可接受和输出8k音频
